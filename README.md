@@ -8,21 +8,18 @@ Anaconda - Python 3.7
 
 ## Algorithm: 
 ### Step 1: 
-Commence the program
+Commence the program 
 
 ### Step 2: 
-Get the value from the user for the number of 
-
-### Step 3: 
 Get the value from the user for the number of rotation
 
-### Step 4: 
+### Step 3: 
 Using the slicing concept rotate the list
 
-### Step 5: 
+### Step 4: 
 Print the rotated list
 
-### Step 6: 
+### Step 5: 
 End the program
 
 ## Program:
